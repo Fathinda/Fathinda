@@ -1,5 +1,13 @@
-<h1 align="center">Abyan Fathin P</h1>
-<p align="center">Data Science Student @ ITSB | Exploring Software Engineering & Data</p>
+<div align="center">
+
+  <!-- Header Banner Animated Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Abyan+Fathin+Pradafi;Data+Science+Student+%40+ITSB;Exploring+Data+%26+Software" alt="Typing SVG" />
+  </a>
+
+  <p align="center">Exploring Data Science, Mobile & Web Development</p>
+
+</div>
 
 ---
 
@@ -14,6 +22,7 @@
 ![DART](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![VUE.JS](https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ---
 
